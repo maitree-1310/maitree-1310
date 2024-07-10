@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Backend development and new technologies including cloud computing, data fundamentals and AI/ML.
 
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I write poems and make paintings.
+- ⚡ hobbies: reading, writing, maths, painting, public speaking 
 
 
